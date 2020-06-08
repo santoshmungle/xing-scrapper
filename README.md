@@ -1,3 +1,3 @@
 # Scraping-Xing-website
 
-Scraping profile data from Xing.com
+Scraping profile data from xing.com
